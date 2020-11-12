@@ -1,34 +1,13 @@
-# learn-vue3
+# vue3-poc
+Demo application created with vue-cli tool with class-syntax components.
+Unit test for simple component with computed property and one method in standard syntax with DefineComponent works, but same component with class syntax and @Option decorator doesn't work.
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
 ### Run your unit tests
 ```
 npm run test:unit
 ```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
